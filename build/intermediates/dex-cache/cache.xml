@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Hani/Downloads/ffmpeg4android_demo_studio/ffmpeg4android_demo/build/intermediates/exploded-aar/ffmpeg4android_demo_studio/ffmpeg4android_lib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2ca79c2f2421d5e10c7998f9aad716ec2bb08548">
+        <dex dex="/Users/Hani/Downloads/ffmpeg4android_demo_studio/ffmpeg4android_demo/build/intermediates/pre-dexed/debug/ffmpeg4android_demo_studio-ffmpeg4android_lib-unspecified_3944581f850ccd8a449ba7993c040640ecf91702.jar" />
+    </item>
+
+</items>

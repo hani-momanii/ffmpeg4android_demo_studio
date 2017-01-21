@@ -1,0 +1,199 @@
+[
+    {
+        "outputFile": "/Users/Hani/Downloads/ffmpeg4android_demo_studio/ffmpeg4android_demo/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "/Users/Hani/Downloads/ffmpeg4android_demo_studio/ffmpeg4android_demo/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 227,
+                    "endOffset": 320
+                },
+                "from": {
+                    "file": "/Users/Hani/Downloads/ffmpeg4android_demo_studio/ffmpeg4android_demo/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 1171,
+                        "endColumn": 223,
+                        "endOffset": 1394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 325,
+                    "endColumn": 141,
+                    "endOffset": 462
+                },
+                "from": {
+                    "file": "/Users/Hani/Downloads/ffmpeg4android_demo_studio/ffmpeg4android_demo/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 467,
+                    "endColumn": 73,
+                    "endOffset": 536
+                },
+                "from": {
+                    "file": "/Users/Hani/Downloads/ffmpeg4android_demo_studio/ffmpeg4android_demo/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 541,
+                    "endColumn": 55,
+                    "endOffset": 592
+                },
+                "from": {
+                    "file": "/Users/Hani/Downloads/ffmpeg4android_demo_studio/ffmpeg4android_demo/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 597,
+                    "endColumn": 61,
+                    "endOffset": 654
+                },
+                "from": {
+                    "file": "/Users/Hani/Downloads/ffmpeg4android_demo_studio/ffmpeg4android_demo/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 659,
+                    "endColumn": 203,
+                    "endOffset": 858
+                },
+                "from": {
+                    "file": "/Users/Hani/Downloads/ffmpeg4android_demo_studio/ffmpeg4android_demo/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 863,
+                    "endLine": 10,
+                    "endColumn": 101,
+                    "endOffset": 1046
+                },
+                "from": {
+                    "file": "/Users/Hani/Downloads/ffmpeg4android_demo_studio/ffmpeg4android_demo/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1051,
+                    "endColumn": 134,
+                    "endOffset": 1181
+                },
+                "from": {
+                    "file": "/Users/Hani/Downloads/ffmpeg4android_demo_studio/ffmpeg4android_demo/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1186,
+                    "endLine": 14,
+                    "endColumn": 88,
+                    "endOffset": 1430
+                },
+                "from": {
+                    "file": "/Users/Hani/Downloads/ffmpeg4android_demo_studio/ffmpeg4android_demo/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1435,
+                    "endColumn": 82,
+                    "endOffset": 1513
+                },
+                "from": {
+                    "file": "/Users/Hani/Downloads/ffmpeg4android_demo_studio/ffmpeg4android_demo/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1518,
+                    "endColumn": 127,
+                    "endOffset": 1641
+                },
+                "from": {
+                    "file": "/Users/Hani/Downloads/ffmpeg4android_demo_studio/ffmpeg4android_demo/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1646,
+                    "endLine": 21,
+                    "endColumn": 8,
+                    "endOffset": 1841
+                },
+                "from": {
+                    "file": "/Users/Hani/Downloads/ffmpeg4android_demo_studio/ffmpeg4android_demo/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1846,
+                    "endLine": 26,
+                    "endColumn": 8,
+                    "endOffset": 2041
+                },
+                "from": {
+                    "file": "/Users/Hani/Downloads/ffmpeg4android_demo_studio/ffmpeg4android_demo/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2046,
+                    "endLine": 30,
+                    "endColumn": 8,
+                    "endOffset": 2189
+                },
+                "from": {
+                    "file": "/Users/Hani/Downloads/ffmpeg4android_demo_studio/ffmpeg4android_demo/src/main/res/values/styles.xml"
+                }
+            }
+        ]
+    }
+]

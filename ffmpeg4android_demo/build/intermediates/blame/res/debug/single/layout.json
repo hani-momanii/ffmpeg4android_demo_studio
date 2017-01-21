@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/Hani/Downloads/ffmpeg4android_demo_studio/ffmpeg4android_demo/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/Hani/Downloads/ffmpeg4android_demo_studio/ffmpeg4android_demo/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/Hani/Downloads/ffmpeg4android_demo_studio/ffmpeg4android_demo/build/intermediates/res/merged/debug/layout/ffmpeg_demo_client_3.xml",
+        "source": "/Users/Hani/Downloads/ffmpeg4android_demo_studio/ffmpeg4android_demo/src/main/res/layout/ffmpeg_demo_client_3.xml"
+    },
+    {
+        "merged": "/Users/Hani/Downloads/ffmpeg4android_demo_studio/ffmpeg4android_demo/build/intermediates/res/merged/debug/layout/ffmpeg_demo_client_1.xml",
+        "source": "/Users/Hani/Downloads/ffmpeg4android_demo_studio/ffmpeg4android_demo/src/main/res/layout/ffmpeg_demo_client_1.xml"
+    },
+    {
+        "merged": "/Users/Hani/Downloads/ffmpeg4android_demo_studio/ffmpeg4android_demo/build/intermediates/res/merged/debug/layout/ffmpeg_demo_client_4.xml",
+        "source": "/Users/Hani/Downloads/ffmpeg4android_demo_studio/ffmpeg4android_demo/src/main/res/layout/ffmpeg_demo_client_4.xml"
+    },
+    {
+        "merged": "/Users/Hani/Downloads/ffmpeg4android_demo_studio/ffmpeg4android_demo/build/intermediates/res/merged/debug/layout/ffmpeg_demo_client_2.xml",
+        "source": "/Users/Hani/Downloads/ffmpeg4android_demo_studio/ffmpeg4android_demo/src/main/res/layout/ffmpeg_demo_client_2.xml"
+    },
+    {
+        "merged": "/Users/Hani/Downloads/ffmpeg4android_demo_studio/ffmpeg4android_demo/build/intermediates/res/merged/debug/layout/ffmpeg_demo_client.xml",
+        "source": "/Users/Hani/Downloads/ffmpeg4android_demo_studio/ffmpeg4android_demo/src/main/res/layout/ffmpeg_demo_client.xml"
+    }
+]
